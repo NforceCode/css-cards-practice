@@ -20,19 +20,19 @@
 
   content: "";
   background-color: white;
-  min-width: 200px;
-  min-height: 200px;
+  min-width: 250px;
+  min-height: 250px;
   opacity: 0.3;
   border-radius: 50%;
 }
 
 .card::before {
     top: -5%; 
-    right: -15%;
+    right: -30%;
 }
 .card::after {
-  bottom: -27%;
-  right: -5%;
+  bottom: -40%;
+  right: -10%;
 }
 
 .card + .card {

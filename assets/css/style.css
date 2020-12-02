@@ -36,7 +36,7 @@
 }
 
 .card + .card {
-  margin-left: 2em;
+  margin-left: 0.6em;
 }
 
 .card-first {
